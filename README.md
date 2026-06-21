@@ -24,7 +24,7 @@
 | Project | What it is |
 | ------- | ---------- |
 | **[FreePDFLab](https://github.com/ajayprgmr/FreePdfLab)** | Full-stack PDF & image toolkit — merge, split, compress, convert. React + Node.js + PostgreSQL + Redis + MinIO. |
-| **[Movix](https://github.com/ajayprgmr/movix)** | Movie discovery app with infinite scroll, search, and TMDB API integration. |
+| **[Movix](https://movix-stage.ajaykushwaha.dev)** | Movie discovery app with infinite scroll, search, and TMDB API integration. |
 | **[Learning Notes](https://ajaykushwaha.dev/blogs)** | Structured notes on JavaScript, React, TypeScript, Node.js, and more. |
 
 ### Tech Stack
