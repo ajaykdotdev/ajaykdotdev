@@ -13,7 +13,7 @@
 
 ### About
 
-- 💻 Software Engineer at **[Horizon Broadband](https://horizonbroadband.co.in/)** — building production OTT platforms serving real users.
+- 💻 Frontend Engineer at **[Horizon Broadband](https://horizonbroadband.co.in/)** — building production OTT platforms serving real users.
 - ⚛️ Working daily with **React**, **TypeScript**, **Redux Toolkit**, and **Node.js**.
 - 🎓 B.Tech in Computer Science from Aliah University | **GATE 2023 Qualified**.
 - 📍 Based in **Bengaluru, India**.
